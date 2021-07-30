@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 1. ✔ create a new player X
 1. ✔ create a new player O
 1. ✔ draw new game board
-1. 📃 Player X place a sign
+1. 🚧 Player X place a sign
 1. 📃 Player O place a sign
 1. 📃 Player X won with a vertical line
 1. 📃 Player O won with a horizontal line
@@ -87,4 +87,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * 📃 check for possible refactoring
     * Commit log:
         * pomodoro plan + new test cases
+        * RED
     * Comment: 

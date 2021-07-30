@@ -38,7 +38,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 1. Pomodoro session:
     * Plan:  
         * ✔ plan second pomodoro + move the last two activities from the first pomodoro to here
-        * 📃 implementation the logic for "create a new player X"
+        * ✔ implementation the logic for "create a new player X"
         * 📃 check for possible refactoring
         * 📃 write next test "create a new player O"
         * 📃 implementation the logic for "create a new player O"
@@ -57,5 +57,6 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * 📃 implementation the logic for the test case
         * 📃 check for possible refactoring
     * Commit log:
-        * pomodoro plan 
+        * pomodoro plan
+        * GREEN
     * Comment: 

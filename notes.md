@@ -24,7 +24,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 1. ✔ Player X place a sign
 1. ✔ Player O place a sign
 1. ✔ Player X won with a vertical line
-1. 📃 Player O won with a horizontal line
+1. 🚧 Player O won with a horizontal line
 1. 📃 Player X won with a diagonal line
 1. 📃 Game ends with a draw
 
@@ -75,7 +75,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ check for possible refactoring
         * ✔ write next test case: Player X won with a vertical line
         * ✔ implementation the logic for the Player X won with a vertical line
-        * 📃 check for possible refactoring
+        * ✔ check for possible refactoring
         * 📃 write next test case: Player O won with a horizontal line
         * 📃 implementation the logic for the Player O won with a horizontal line
         * 📃 check for possible refactoring
@@ -95,4 +95,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * Refactor (checked, nothing was changed)
         * RED
         * GREEN
+        * Refactor 
     * Comment: 

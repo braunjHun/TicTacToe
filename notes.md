@@ -39,7 +39,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
     * Plan:  
         * ✔ plan second pomodoro + move the last two activities from the first pomodoro to here
         * ✔ implementation the logic for "create a new player X"
-        * 📃 check for possible refactoring
+        * ✔ check for possible refactoring
         * 📃 write next test "create a new player O"
         * 📃 implementation the logic for "create a new player O"
         * 📃 check for possible refactoring
@@ -59,4 +59,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
     * Commit log:
         * pomodoro plan
         * GREEN
+        * Refactor (checked, nothing was changed)
     * Comment: 

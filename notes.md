@@ -42,7 +42,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ check for possible refactoring
         * ✔ write next test "create a new player O"
         * ✔ implementation the logic for "create a new player O"
-        * 📃 check for possible refactoring
+        * ✔ check for possible refactoring
         * 📃 write next test "draw new game board"
         * 📃 implementation the logic for "draw new game board"
         * 📃 check for possible refactoring
@@ -62,4 +62,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * Refactor (checked, nothing was changed)
         * RED
         * GREEN
+        * Refactor (checked, nothing was changed)
     * Comment: 

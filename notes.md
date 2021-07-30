@@ -72,7 +72,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ check for possible refactoring
         * ✔ write next test case: Player O place a sign
         * ✔ implementation the logic for the Player O place a sign
-        * 📃 check for possible refactoring
+        * ✔ check for possible refactoring
         * 📃 write next test case: Player X won with a vertical line
         * 📃 implementation the logic for the Player X won with a vertical line
         * 📃 check for possible refactoring
@@ -92,4 +92,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * Refactor (checked, nothing was changed)
         * RED
         * GREEN
+        * Refactor (checked, nothing was changed)
     * Comment: 

@@ -45,7 +45,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ check for possible refactoring
         * ✔ write next test "draw new game board"
         * ✔ implementation the logic for "draw new game board"
-        * 📃 check for possible refactoring
+        * ✔ check for possible refactoring
         * 📃 plan new test cases
         * 📃 write next test case 
         * 📃 implementation the logic for the test case
@@ -65,4 +65,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * Refactor (checked, nothing was changed)
         * RED
         * GREEN
+        * Refactor (checked, nothing was changed)
     * Comment: 

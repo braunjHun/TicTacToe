@@ -32,4 +32,12 @@ describe('Test Tic Tac Toe functions', () => {
     board.setSign(player,0,0);
     expect(board.drawBoard()).toBe("O| | \n-+-+-\n | | \n-+-+-\n | | ");
   });  
+  it('Player X won with a vertical line', () => {
+    const board = new Board();
+    const player1 = new Player('Player X', 'X');
+    const player2 = new Player('Player O', 'O');
+    board.starGame(player1,player2);
+    expect(board.drawBoard()).toBe("X| | \n-+-+-\nX|O| \n-+-+-\nX| |O");
+    expect(board.getWinner()).toBe("PLAYER X WON!");
+  });   
 });

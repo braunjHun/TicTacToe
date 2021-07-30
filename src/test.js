@@ -8,4 +8,11 @@ describe('Test Tic Tac Toe functions', () => {
     expect(player.getName()).toBe(name);
     expect(player.getSign()).toBe(sign);
   });
+  it('Create a new player O', () => {
+    const name = 'Player O';
+    const sign = 'O';
+    const player = new Player(name, sign);
+    expect(player.getName()).toBe(name);
+    expect(player.getSign()).toBe(sign);
+  });
 });

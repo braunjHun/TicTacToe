@@ -1,13 +1,14 @@
 class Player {
 
     constructor(name, sign) {
-
+        this.name = name;
+        this.sign = sign;
     }
     getName() {
-      return "Player X";
+      return this.name;
     }
     getSign() {
-      return "X";
+      return this.sign;
     }
   }
   

@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 
 ## Test cases
 1. ✔ create a new player X
-1. 🚧 create a new player O
+1. ✔ create a new player O
 1. 📃 draw new game board
 
 
@@ -41,7 +41,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ implementation the logic for "create a new player X"
         * ✔ check for possible refactoring
         * ✔ write next test "create a new player O"
-        * 📃 implementation the logic for "create a new player O"
+        * ✔ implementation the logic for "create a new player O"
         * 📃 check for possible refactoring
         * 📃 write next test "draw new game board"
         * 📃 implementation the logic for "draw new game board"
@@ -61,4 +61,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * GREEN
         * Refactor (checked, nothing was changed)
         * RED
+        * GREEN
     * Comment: 

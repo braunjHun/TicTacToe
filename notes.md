@@ -69,7 +69,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ plan new test cases
         * ✔ write next test case: Player X place a sign
         * ✔ implementation the logic for the Player X place a sign
-        * 📃 check for possible refactoring
+        * ✔ check for possible refactoring
         * 📃 write next test case: Player O place a sign
         * 📃 implementation the logic for the Player O place a sign
         * 📃 check for possible refactoring
@@ -89,4 +89,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * pomodoro plan + new test cases
         * RED
         * GREEN
+        * Refactor (checked, nothing was changed)
     * Comment: 

@@ -39,5 +39,13 @@ describe('Test Tic Tac Toe functions', () => {
     board.startGame(player1,player2);
     expect(board.drawBoard()).toBe("X| | \n-+-+-\nX|O| \n-+-+-\nX| |O");
     expect(board.getWinner()).toBe("PLAYER X WON!");
+  });  
+  it('Player O won with a horizontal line', () => {
+    const board = new Board();
+    const player1 = new Player('Player X', 'X');
+    const player2 = new Player('Player O', 'O');
+    board.startGame(player1,player2);
+    expect(board.drawBoard()).toBe("X| |X\n-+-+-\nO|O|O\n-+-+-\nX| | ");
+    expect(board.getWinner()).toBe("PLAYER O WON!");
   });   
 });

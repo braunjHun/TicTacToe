@@ -76,7 +76,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ write next test case: Player X won with a vertical line
         * ✔ implementation the logic for the Player X won with a vertical line
         * ✔ check for possible refactoring
-        * 📃 write next test case: Player O won with a horizontal line
+        * ✔ write next test case: Player O won with a horizontal line
         * 📃 implementation the logic for the Player O won with a horizontal line
         * 📃 check for possible refactoring
         * 📃 write next test case: Player X won with a diagonal line
@@ -96,4 +96,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * RED
         * GREEN
         * Refactor 
+        * RED
     * Comment: 

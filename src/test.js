@@ -1,4 +1,5 @@
 const { Player } = require('./player');
+const { Board } = require('./board');
 
 describe('Test Tic Tac Toe functions', () => {
   it('Create a new player X', () => {
@@ -15,4 +16,9 @@ describe('Test Tic Tac Toe functions', () => {
     expect(player.getName()).toBe(name);
     expect(player.getSign()).toBe(sign);
   });
+  it('Draw new game board', () => {
+    const board = new Board();
+    expect(board.drawBoard()).toBe(" | | /n-+-+-/n | | /n-+-+-/n | | ");
+  });
+
 });

@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 1. ✔ create a new player X
 1. ✔ create a new player O
 1. ✔ draw new game board
-1. 🚧 Player X place a sign
+1. ✔ Player X place a sign
 1. 📃 Player O place a sign
 1. 📃 Player X won with a vertical line
 1. 📃 Player O won with a horizontal line
@@ -68,7 +68,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ plan third pomodoro + move the activities from the second pomodoro to here
         * ✔ plan new test cases
         * ✔ write next test case: Player X place a sign
-        * 📃 implementation the logic for the Player X place a sign
+        * ✔ implementation the logic for the Player X place a sign
         * 📃 check for possible refactoring
         * 📃 write next test case: Player O place a sign
         * 📃 implementation the logic for the Player O place a sign
@@ -88,4 +88,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
     * Commit log:
         * pomodoro plan + new test cases
         * RED
+        * GREEN
     * Comment: 

@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 1. Game ends with a draw
 
 ## Test cases
-1. 📃 create a new player X
+1. 🚧 create a new player X
 1. 📃 create a new player O
 1. 📃 draw new game board
 
@@ -30,9 +30,10 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ Create note.md and add general information 
         * ✔ add UAT scenarios
         * ✔ plan test cases 
-        * 📃 create test.js and write first test case
-        * 📃 cover the first test case with implementation
+        * ✔ create test.js and write first test "create a new player X"
+        * 📃 implementation the logic for "create a new player X"
         * 📃 check for possible refactoring
     * Commit log:
         * pomodoro plan + notes.md
-    * Comment: 
+        * RED
+    * Comment: no more time left, I spent a lot of time to wait to the installation of the packages

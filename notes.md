@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 1. ✔ create a new player O
 1. ✔ draw new game board
 1. ✔ Player X place a sign
-1. 📃 Player O place a sign
+1. 🚧 Player O place a sign
 1. 📃 Player X won with a vertical line
 1. 📃 Player O won with a horizontal line
 1. 📃 Player X won with a diagonal line
@@ -70,7 +70,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ write next test case: Player X place a sign
         * ✔ implementation the logic for the Player X place a sign
         * ✔ check for possible refactoring
-        * 📃 write next test case: Player O place a sign
+        * ✔ write next test case: Player O place a sign
         * 📃 implementation the logic for the Player O place a sign
         * 📃 check for possible refactoring
         * 📃 write next test case: Player X won with a vertical line
@@ -90,4 +90,5 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * RED
         * GREEN
         * Refactor (checked, nothing was changed)
+        * RED
     * Comment: 

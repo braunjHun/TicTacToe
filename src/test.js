@@ -26,4 +26,10 @@ describe('Test Tic Tac Toe functions', () => {
     board.setSign(player,0,0);
     expect(board.drawBoard()).toBe("X| | \n-+-+-\n | | \n-+-+-\n | | ");
   });
+  it('Player O place a sign', () => {
+    const board = new Board();
+    const player = new Player('Player O', 'O');
+    board.setSign(player,0,0);
+    expect(board.drawBoard()).toBe("O| | \n-+-+-\n | | \n-+-+-\n | | ");
+  });  
 });

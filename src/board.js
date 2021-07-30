@@ -2,10 +2,10 @@ class Board {
 
     gameBoard = " | | \n-+-+-\n | | \n-+-+-\n | | "; 
 
-    setSign() {
-        this.gameBoard = "X| | \n-+-+-\n | | \n-+-+-\n | | "; 
+    setSign(player,x,y) {
+        this.gameBoard = player.getSign() + "| | \n-+-+-\n | | \n-+-+-\n | | "; 
     }
-   drawBoard(player,x,y) {
+   drawBoard() {
        return this.gameBoard;
    }
   }

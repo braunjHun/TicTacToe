@@ -18,7 +18,7 @@ describe('Test Tic Tac Toe functions', () => {
   });
   it('Draw new game board', () => {
     const board = new Board();
-    expect(board.drawBoard()).toBe(" | | /n-+-+-/n | | /n-+-+-/n | | ");
+    expect(board.drawBoard()).toBe(" | | \n-+-+-\n | | \n-+-+-\n | | ");
   });
 
 });

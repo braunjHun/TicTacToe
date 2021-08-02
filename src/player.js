@@ -10,7 +10,7 @@ class Player {
     getSign() {
       return this.sign;
     }
-  }
+   }
   
   module.exports = {
     Player,

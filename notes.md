@@ -24,9 +24,9 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 1. ✔ Player X place a sign
 1. ✔ Player O place a sign
 1. ✔ Player X won with a vertical line
-1. 🚧 Player O won with a horizontal line
-1. 📃 Player X won with a diagonal line
-1. 📃 Game ends with a draw
+1. ✔ Player O won with a horizontal line
+1. ✔ Player X won with a diagonal line
+1. ✔ Game ends with a draw
 
 
 ## Pomodoro session log
@@ -77,14 +77,6 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * ✔ implementation the logic for the Player X won with a vertical line
         * ✔ check for possible refactoring
         * ✔ write next test case: Player O won with a horizontal line
-        * 📃 implementation the logic for the Player O won with a horizontal line
-        * 📃 check for possible refactoring
-        * 📃 write next test case: Player X won with a diagonal line
-        * 📃 implementation the logic for the Player X won with a diagonal line
-        * 📃 check for possible refactoring
-        * 📃 write next test case: Game ends with a draw 
-        * 📃 implementation the logic for the Game ends with a draw 
-        * 📃 check for possible refactoring
     * Commit log:
         * pomodoro plan + new test cases
         * RED
@@ -97,4 +89,19 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
         * GREEN
         * Refactor 
         * RED
-    * Comment: 
+    * Comment: no more time left, move the rest activities to the next pomodoro
+1. Pomodoro session:
+    * Plan:  
+        * ✔ plan forth pomodoro + move the activities from the third pomodoro to here
+        * ✔ implementation the logic for the Player O won with a horizontal line
+        * ✔ check for possible refactoring
+        * ✔ write next test case: Player X won with a diagonal line
+        * ✔ implementation the logic for the Player X won with a diagonal line
+        * ✔ check for possible refactoring
+        * ✔ write next test case: Game ends with a draw 
+        * ✔ implementation the logic for the Game ends with a draw 
+        * ✔ check for possible refactoring
+    * Commit log:
+        * pomodoro plan 
+        * over time - maybe 5. or 6. pomodoro - Final solution
+    * Comment: I cannot solve in 2 hours time box, however I finished it    

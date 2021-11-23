@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 language: node_js
 node_js:
   - 8
+=======
+language: node_js
+node_js:
+  - 7
+>>>>>>> fc1a3f3477f8039eae72835d805c6f3fab990930
